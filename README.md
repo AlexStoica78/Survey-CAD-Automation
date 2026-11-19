@@ -12,3 +12,5 @@ An automation pipeline built to bridge geospatial field survey datasets directly
 1. **Field Telemetry:** The script reads raw coordinates (`Easting`, `Northing`, `Elevation`, `Description`).
 2. **Translation Engine:** Python compiles thousands of precise tracking vectors into an AutoCAD Command Script file (`.scr`).
 3. **Execution Canvas:** Running the script in AutoCAD automatically formats layers, draws geometries, configures node types (`PTYPE`), and centers views natively.
+## AutoCAD Output Preview
+![AutoCAD Survey Output](AutoCAD_Drawing_Alex.PNG)
